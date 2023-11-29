@@ -26,7 +26,7 @@ CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
-卫视频道,#genre#
+卫视频道v6,#genre#
 北京卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 湖南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
 东方卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
@@ -64,7 +64,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 延边卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
 
-NewTV系列,#genre#
+NewTV-v6,#genre#
 超级综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -283,6 +283,3 @@ CETV-4,http://8.134.248.59:5678/cqyx.php?id=cetv-4SD
 重庆科教高清,http://8.134.248.59:5678/cqyx.php?id=CQTVkejiaoHD
 重庆汽摩高清,http://8.134.248.59:5678/cqyx.php?id=cqcarSD
 重庆移动高清,http://8.134.248.59:5678/cqyx.php?id=mryyHD
-
-港澳台,#genre#
-中视购物,http://8.134.248.59:5678/cqyx.php?id=ysgw
